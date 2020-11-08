@@ -21,7 +21,7 @@ The analysis conducted for both shows the given stations as being the top & bott
 
 The analysis shows the total trip duration of Starting Stations based on the total count of Bike IDs. 
 
-1. What is the Popularity of UserType by Birth Year & Gender?
+4. What is the Popularity of UserType by Birth Year & Gender?
 
 The analysis that determine the most popular Usertype based on Gender & Birth Year. Based on information gathered, it was determined that most users are subscribers and are generally Male. Female riders tend to be customers and tend to buy a pass to use for anywhere between 24 hours to 3 days. There does not seem to be as much interest from Females in bike ridership then Males. 
 
